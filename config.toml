@@ -1,0 +1,19 @@
+# Config file for Flight Viewer 1.0
+
+# Window size in pixels (width-height)
+win_size = [1600, 900]
+
+# Light position (x-y-z)
+light_pos = [5, 5, 10]
+
+# Tracks color (rgb 0-255)
+track_col = [255,255,255]
+
+# Topography color (rgb 0-255)
+topo_col = [102, 165, 88]
+
+# Sky color (rgba 0-255)
+sky_col = [135, 206, 235, 255]
+
+# Scale 
+scale = 0.003
